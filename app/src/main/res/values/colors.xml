@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1c33b5</color>
+    <color name="colorPrimaryDark">#1c33b5</color>
+    <color name="colorAccent">#E4C65D</color>
+    <color name="ColorActionBarTitle">#f2f0f1</color>
+    <color name="bnvColorIcon">#CE91A2</color>
+</resources>

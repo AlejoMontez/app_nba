@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PLAYOFFS NBA 2K18</string>
+    <string name="str_toolbar_account">Create Account</string>
+
+    <string name="str_menubn_results">Match</string>
+    <string name="str_menubn_groups">Positions</string>
+    <string name="str_menubn_news">Teams</string>
+    <string name="str_menubn_stadium">Stadiums</string>
+    <string name="str_menubn_profile">Players</string>
+
+    <string name="str_login_name">Username</string>
+    <string name="str_login_password">Password</string>
+    <string name="str_btn_login">Enter</string>
+
+    <string name="str_account_email">Email</string>
+    <string name="str_account_name">First name</string>
+    <string name="str_account_user">User</string>
+    <string name="str_account_password">Password</string>
+    <string name="str_account_repassword">Confirm Password</string>
+    <string name="str_btn_account">Create Accoun</string>
+    <string name="Registrer">Register</string>
+    <string name="create">CREATE</string>
+    <string name="jueves_14_junio">Thursday 14 June</string>
+    <string name="registers">Register</string>
+    <string name="myprofile">MyProfile</string>
+    <string name="information">Information</string>
+    <string name="new_create_account">New Create Account</string>
+    <string name="new_users">NEW USERS</string>
+    <string name="close_sesions">Close Sesions</string>
+
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/id_menubn_calendar"
+        android:title="@string/str_menubn_stadium"
+        android:icon="@drawable/ico1"
+
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/id_menubn_group"
+
+        android:icon="@drawable/ico4"
+        android:title="@string/str_menubn_profile"
+
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/id_menubn_news"
+        android:title="@string/str_menubn_news"
+        android:icon="@drawable/ico3"
+
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/id_menubn_stadium"
+        android:title="@string/str_menubn_results"
+
+        android:icon="@drawable/ico2"
+
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/id_menubn_jugadores"
+        android:title="@string/str_menubn_groups"
+        android:icon="@drawable/ico5"
+
+        app:showAsAction="ifRoom"/>
+</menu>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PLAYOFFS NBA 2K18</string>
+    <string name="str_toolbar_account">Crear cuenta</string>
+
+    <string name="str_menubn_results">Partidos</string>
+    <string name="str_menubn_groups">Posiciones</string>
+    <string name="str_menubn_news">Equipos</string>
+    <string name="str_menubn_stadium">Estadios</string>
+    <string name="str_menubn_profile">Jugadores</string>
+
+    <string name="str_login_name">Nombre de usuario</string>
+    <string name="str_login_password">Contraseña</string>
+    <string name="str_btn_login">Ingresar</string>
+
+    <string name="str_account_email">Correo electronico</string>
+    <string name="str_account_name">Nombre</string>
+    <string name="str_account_user">Usuario</string>
+    <string name="str_account_password">Contraseña</string>
+    <string name="str_account_repassword">Confirmar contraseña</string>
+    <string name="str_btn_account">Crear cuenta</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Genero">Genero</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="Registrer">Registro</string>
+    <string name="create">CREAR</string>
+    <string name="jueves_14_junio">Jueves 14 junio</string>
+    <string name="registers">Registros</string>
+    <string name="myprofile">MiPerfil</string>
+    <string name="information">Informacion</string>
+    <string name="new_create_account">Crear una nueva cuenta</string>
+    <string name="new_users">Nuevo Usuario</string>
+    <string name="close_sesions">Cerrar Sesion</string>
+</resources>

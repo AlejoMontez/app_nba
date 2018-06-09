@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_marginLeft="8dp"
+    android:layout_marginRight="8dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/id_img_team_local"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@mipmap/ic_launcher_round"
+            android:scaleType="centerCrop"
+            android:elevation="4dp"
+            app:civ_border_width="0.5dp"
+            app:civ_border_color="@color/colorPrimaryDark"
+            android:layout_gravity="center"
+            android:layout_marginLeft="16dp"
+            />
+        <TextView
+            android:id="@+id/id_txv_team_local"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/holo_orange_light"
+            android:text=""
+            android:textSize="15sp"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:textAlignment="textEnd"/>
+
+
+
+
+        <TextView
+            android:id="@+id/id_txv_team_hourmatch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/white"
+            android:text="10:00"
+            android:textSize="20sp"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:id="@+id/id_txv_team_visitor"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textSize="15sp"
+            android:textColor="@android:color/holo_orange_dark"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:textAlignment="textStart"/>
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/id_img_team_visitor"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center"
+            android:layout_marginRight="16dp"
+            android:elevation="4dp"
+            android:scaleType="centerCrop"
+            android:src="@mipmap/ic_launcher_round"
+            app:civ_border_color="@color/colorPrimaryDark"
+
+            app:civ_border_width="0.5dp" />
+
+    </LinearLayout>
+    <View android:layout_width="match_parent" android:layout_height="1dp" android:background="@color/colorPrimary"/>
+
+</LinearLayout>
